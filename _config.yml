@@ -1,7 +1,7 @@
 name: RimskayaFotostudia
 favicon: null
-layout_spectrum: 0.5797300718259066
-typography_spectrum: 0.4315798017196357
+layout_spectrum: 0.92619
+typography_spectrum: 0.89541
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.41548828361555934
-  lightness: 0.21501310891471803
+  brandStrength: 0
+  lightness: 0.25
   saturation: 0.022752256831154227
-  rhythmicContrast: 0.7863257338758558
+  rhythmicContrast: 0.25
 purpose: []
