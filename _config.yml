@@ -1,0 +1,28 @@
+name: RimskayaFotostudia
+favicon: null
+layout_spectrum: 0.5797300718259066
+typography_spectrum: 0.4315798017196357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.41548828361555934
+  lightness: 0.21501310891471803
+  saturation: 0.022752256831154227
+  rhythmicContrast: 0.7863257338758558
+purpose: []
