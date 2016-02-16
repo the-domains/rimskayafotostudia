@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: Rimskaya Masterskaya Fotografii v Kharkove
-datePublished: '2016-02-16T15:39:53.592Z'
-dateModified: '2016-02-16T15:36:00.382Z'
+datePublished: '2016-02-16T15:46:26.342Z'
+dateModified: '2016-02-16T15:46:15.995Z'
 title: Visit Card
 author: []
+sourcePath: _posts/2016-02-16-visit-card.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-visit-card.md
-published: true
 url: visit-card/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8880e8f1-160d-45b1-a023-acfc6f19650c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aea5039578bae40203846b4deeb448798b1ed6ec.jpg)
 
 Sumskaya 17, Dom Salamandra, Kharkov, Ukraine.
 
