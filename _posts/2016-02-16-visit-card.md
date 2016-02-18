@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Rimskaya Masterskaya Fotografii v Kharkove
-datePublished: '2016-02-16T16:16:00.985Z'
-dateModified: '2016-02-16T16:15:55.661Z'
+datePublished: '2016-02-18T09:43:44.367Z'
+dateModified: '2016-02-18T09:42:58.891Z'
 title: Visit Card
 author: []
 sourcePath: _posts/2016-02-16-visit-card.md
